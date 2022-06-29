@@ -1,1 +1,1 @@
-worker: python Algorithm-Visualizer.py
+worker: python Algorithm_Visualizer.py
